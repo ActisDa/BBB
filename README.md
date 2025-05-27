@@ -29,6 +29,6 @@ Descriptors are calculated using the `molfeat` library and include:
 These features are derived from the SMILES representation of each molecule.
 
 
-## 📊 Modeling
+## Modeling
 
 The dataset is split into training and test sets using stratified sampling to preserve class balance (75% BBB+, 25% BBB–). A classification model is trained and evaluated to assess predictive performance.
