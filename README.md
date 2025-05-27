@@ -11,7 +11,7 @@ The goal of this project is to build a classification model to predict whether a
 
 ##  Descriptors Used
 
-Descriptors are calculated using the `molfeat` library and include:
+Descriptors are calculated using the `mordred` library and include:
 
 - Molecular weight
 - Topological Polar Surface Area (TPSA)
