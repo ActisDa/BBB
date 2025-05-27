@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook for predicting blood-brain barrier (
 
 ## Project Overview
 
-The goal of this project is to build a classification model to predict whether a compound can cross the blood-brain barrier (BBB+) or not (BBB–), using physicochemical and topological molecular descriptors.
+The goal of this project is to build a classification model to predict whether a compound can cross the blood-brain barrier (BBB+) or not (BBB–), using physicochemical and topological molecular descriptors. The Dataset used in this project was obtained from https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/BBBP.csv
 
 
 ##  Descriptors Used
